@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS frameworks like Vue
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : jjarahe@gmail.com / www.linkedin.com/in/juan-jara-herrera
 
 <!---
 jjarahe/jjarahe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
