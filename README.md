@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjarahe
 - 👀 I’m interested in JS frameworks
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React JS, VueJS or any JS Frameworks.
 - 📫 How to reach me : jjarahe@gmail.com / www.linkedin.com/in/juan-jara-herrera
 
 <!---
